@@ -1,2 +1,1 @@
-# HelloWorld
-First Attempt at making a Repository
+Russell O. Stewart
